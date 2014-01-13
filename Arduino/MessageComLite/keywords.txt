@@ -1,0 +1,66 @@
+#######################################
+# Syntax Coloring Map MessageComLite
+#######################################
+
+#######################################
+# Datatypes 	(KEYWORD1)
+#######################################
+MessageComLite	KEYWORD1
+#######################################
+# Methods and Functions 	(KEYWORD2)
+#######################################
+getSize	KEYWORD2
+clear	KEYWORD2
+getVersionFromMessage	KEYWORD2
+getTypeFromMessage	KEYWORD2
+setVersion	KEYWORD2
+setType	KEYWORD2
+getCommandStatusFromMessage	KEYWORD2
+setCommandStatus	KEYWORD2
+createCommandStatus	KEYWORD2
+getTaskValue	KEYWORD2
+getTaskValueFromCommandStatus	KEYWORD2
+getState	KEYWORD2
+getStateFromCommandStatus	KEYWORD2
+getMessageNumberFromMessage	KEYWORD2
+getTotalQuantityFromMessage	KEYWORD2
+setMessageNumber	KEYWORD2
+setTotalQuantity	KEYWORD2
+getDataSizeFromMessage	KEYWORD2
+setDataSize	KEYWORD2
+getDataFromMessage	KEYWORD2
+addToData	KEYWORD2
+getUint8FromData	KEYWORD2
+getCharArrayFromData	KEYWORD2
+getCharFromData	KEYWORD2
+getUint16FromData	KEYWORD2
+getIntFromData	KEYWORD2
+getLongFromData	KEYWORD2
+getUnsignedLongFromData	KEYWORD2
+getDataCount	KEYWORD2
+firstData	KEYWORD2
+lastData	KEYWORD2
+prevData	KEYWORD2
+nextData	KEYWORD2
+getCsHFromMessage	KEYWORD2
+getCsLFromMessage	KEYWORD2
+getChecksumFromMessage	KEYWORD2
+getChecksumFrom	KEYWORD2
+makeCrcFrom	KEYWORD2
+setCrc	KEYWORD2
+getCrcLH	KEYWORD2
+crcOk	KEYWORD2
+gatherInfoFromMessage	KEYWORD2
+createMessage	KEYWORD2
+authMsg	KEYWORD2
+readMsg	KEYWORD2
+recv	KEYWORD2
+receiveAck	KEYWORD2
+receive	KEYWORD2
+snd	KEYWORD2
+sendAck	KEYWORD2
+send	KEYWORD2
+
+#######################################
+# Constants 	(LITERAL1)
+#######################################

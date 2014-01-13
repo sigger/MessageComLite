@@ -1,0 +1,24 @@
+h1. MessageComLite
+
+Version 0.5 Implementation as Arduino Library and PHP-Class
+
+h2. _What is it?_
+
+MessageComLite is a library to facilitate communication between devices.
+MessageComLite is purposeful and has a simple design.
+MessageComLite is useful for many platforms, including PHP and Arduino.
+
+h2. _How does it work?_
+
+This library simplifies the modeling of data.
+The result is a string/char-array that contains the desired data, including additional information.
+This string/char-array can be sent as usual.
+The communication is still taking place via the given medium eg. serial communication.
+On the receiver side, the string/char-array is interpreted and the information can be extracted with methods according to the given requirements.
+
+h2. _Why should I use the Library?_
+
+The library supports you in communication.
+The library brings with useful methods for you to facilitate the communication, some obvious things.
+Full control is still given.
+Due to the simple design, the library is compatible with many platforms.
