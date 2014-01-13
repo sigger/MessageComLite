@@ -4,7 +4,7 @@ Version 0.5 Implementation as Arduino Library and PHP-Class
 
 h2. _What is it?_
 
-MessageComLite is a library to facilitate communication between devices.
+MessageComLite is a library to facilitate communication between devices via serial communication.
 MessageComLite is purposeful and has a simple design.
 MessageComLite is useful for many platforms, including PHP and Arduino.
 
